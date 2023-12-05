@@ -1,4 +1,5 @@
 <script setup>
+import Assignment2 from './components/Assignment-2/Assignment-2.vue';
 import Assignment1 from './components/assignment-1/assignment-1.vue';
 
 
@@ -6,6 +7,7 @@ import Assignment1 from './components/assignment-1/assignment-1.vue';
 
 <template>
   <Assignment1/>
+  <Assignment2/>
 </template>
 
 <style scoped>
